@@ -1,16 +1,17 @@
 # Hello, I'm Mohamad Asyraf Bin Zulkifli
 <a href="https://www.linkedin.com/in/asyrafzf/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Aspiring cyber security professional actively looking for a cyber security role. I continue to learn and build my skills in cyber security in both the non-technical and technical areas of cyber security.
+Aspiring Meteorologist actively looking for opportunities in data science and data analysis. I continue to enhance my skills in both the technical and analytical aspects of data science, including data cleaning, statistical analysis, machine learning, and data visualization. Passionate about using data to drive insights and make data-driven decisions.
 
 ## Objective
 
-My journey as meteorologist has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst or as Security Analyst. Adept at assessing complex risks, identifying vulnerabilities, and utilizing advanced technologies to mitigate potential threats. Passionate about cybersecurity, with a commitment to enhancing system integrity and safeguarding organizational assets against evolving cyber threats. Ready to apply my expertise in data analysis and risk management to the cybersecurity field.
+My journey as a meteorologist has sparked a strong interest in data analysis and its potential to uncover valuable insights. I am now eager to transition into a role in Data Science or Data Analytics, focusing on leveraging my analytical skills to drive impactful, data-driven decisions. Adept at interpreting complex datasets, performing statistical analysis, and utilizing advanced tools and technologies to uncover trends and patterns. Passionate about using data to solve real-world problems and make informed decisions. Ready to apply my expertise in data analysis, problem-solving, and statistical modeling to the dynamic field of data science and analytics.
 
 ## Skills
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| Exploratory Data Analysis on Covid-19 in India        | <a href="[https://www.coursera.org/account/accomplishments/verify/ZPSK93GU103Q](https://github.com/asyrafzf95/Exploratory-Data-Analysis-on-Covid-19-in-India)">Exploratory Data Analysis</a>|
 | Analyze Network Traffic with TCPDump          | <a href="https://www.coursera.org/account/accomplishments/verify/ZPSK93GU103Q">Build a Logging Tool</a>|
 | Metasploit for Beginners | <a href="https://www.coursera.org/account/accomplishments/verify/HZV1EV6MWQZD">Ethical Penetration Testing</a>|
 | Vulnerability Scanning with Nmap         | <a href="https://www.coursera.org/account/accomplishments/verify/O14I6CUXJXE3">Network Scanning</a>|
