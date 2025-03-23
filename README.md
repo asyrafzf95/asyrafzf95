@@ -12,6 +12,7 @@ My journey as a meteorologist has sparked a strong interest in data analysis and
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Analyze Network Traffic with TCPDump          | <a href="https://www.coursera.org/account/accomplishments/verify/ZPSK93GU103Q">Build a Logging Tool</a>|
+| Analyze Network Traffic with TCPDump          | <a href="https://www.coursera.org/account/accomplishments/verify/ZPSK93GU103Q">Build a Logging Tool</a>|
 | Metasploit for Beginners | <a href="https://www.coursera.org/account/accomplishments/verify/HZV1EV6MWQZD">Ethical Penetration Testing</a>|
 | Vulnerability Scanning with Nmap         | <a href="https://www.coursera.org/account/accomplishments/verify/O14I6CUXJXE3">Network Scanning</a>|
 | Web Application Security Testing     | <a href="https://www.coursera.org/account/accomplishments/verify/85S6VS196XIC">Security Testing with OWASP ZAP</a>|
