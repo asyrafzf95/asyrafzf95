@@ -11,7 +11,7 @@ My journey as a meteorologist has sparked a strong interest in data analysis and
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Analyze Network Traffic with TCPDump          | <a href="https://github.com/asyrafzf95/Exploratory-Data-Analysis-on-Covid-19-in-India">Exploratory Data Analysis</a>|
+| Exploratory Data Analysis on Covid-19 in India          | <a href="https://github.com/asyrafzf95/Exploratory-Data-Analysis-on-Covid-19-in-India">Exploratory Data Analysis</a>|
 | Analyze Network Traffic with TCPDump          | <a href="https://www.coursera.org/account/accomplishments/verify/ZPSK93GU103Q">Build a Logging Tool</a>|
 | Metasploit for Beginners | <a href="https://www.coursera.org/account/accomplishments/verify/HZV1EV6MWQZD">Ethical Penetration Testing</a>|
 | Vulnerability Scanning with Nmap         | <a href="https://www.coursera.org/account/accomplishments/verify/O14I6CUXJXE3">Network Scanning</a>|
