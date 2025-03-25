@@ -10,7 +10,7 @@ My journey as a meteorologist has sparked a strong interest in data analysis and
 ## Education
 
 ### University of Nottingham
-![University of Nottingham Logo](https://upload.wikimedia.org/wikipedia/commons/a/ab/University_of_Nottingham_logo.png)
+![University of Nottingham Logo](university_logo.svg) 
 *Bachelor of Science in Physics with Honors*  
 *Graduated: 2018*  
 *Nottingham, UK*
