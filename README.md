@@ -20,6 +20,7 @@ My journey as a meteorologist has sparked a strong interest in data analysis and
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Credit Card Fraud Detection - Dealing with Imbalanced Datasets in Machine Learning         | <a href="https://github.com/asyrafzf95/Credit-Card-Fraud-Detection">Credit Card Fraud Detection</a>|
+| Predicting California Housing Prices         | <a href="https://github.com/asyrafzf95/Predicting-Housing-Prices">Predicting Housing Prices</a>|
 | Exploratory Data Analysis on Covid-19 in India          | <a href="https://github.com/asyrafzf95/Exploratory-Data-Analysis-on-Covid-19-in-India">Exploratory Data Analysis</a>|
 | Analyze Network Traffic with TCPDump          | <a href="https://www.coursera.org/account/accomplishments/verify/ZPSK93GU103Q">Build a Logging Tool</a>|
 | Metasploit for Beginners | <a href="https://www.coursera.org/account/accomplishments/verify/HZV1EV6MWQZD">Ethical Penetration Testing</a>|
@@ -183,6 +184,7 @@ Model Evaluation
 
 ## Projects
 - <a href="https://github.com/asyrafzf95/Credit-Card-Fraud-Detection">Credit Card Fraud Detection</a>
+- <a href="https://github.com/asyrafzf95/Predicting-Housing-Prices">Predicting Housing Prices</a>
 - <a href="https://github.com/asyrafzf95/Exploratory-Data-Analysis-on-Covid-19-in-India">Exploratory Data Analysis</a>
 - <a href="https://www.coursera.org/account/accomplishments/verify/ZPSK93GU103Q">Build a Logging Tool</a>
 - <a href="https://www.coursera.org/account/accomplishments/verify/HZV1EV6MWQZD">Ethical Penetration Testing</a>
