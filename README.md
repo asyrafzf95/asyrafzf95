@@ -1,16 +1,16 @@
 # Hello, I'm Mohamad Asyraf Bin Zulkifli
 <a href="https://www.linkedin.com/in/asyrafzf/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Aspiring Data Scientist and Cybersecurity Enthusiast, currently working as a Meteorologist, actively seeking opportunities in data science and cybersecurity. I have completed the IBM Data Science Professional Certificate and the Google Cybersecurity Professional Certificate, which have equipped me with the technical knowledge and practical skills in data analysis, machine learning, cybersecurity principles, and best practices. My background in meteorology has provided me with strong analytical skills, which I am now applying and expanding in the fields of data analysis, statistical analysis, machine learning, and data visualization. In parallel, I am developing expertise in cybersecurity principles and best practices to ensure the security and integrity of systems and data.
+Aspiring Data Scientist Enthusiast, currently working as a Meteorologist, actively seeking opportunities in data science. I have completed the IBM Data Science Professional Certificate, which have equipped me with the technical knowledge and practical skills in data analysis, machine learning and best practices. My background in meteorology has provided me with strong analytical skills, which I am now applying and expanding in the fields of data analysis, statistical analysis, machine learning, and data visualization. 
 
-Passionate about leveraging data to drive actionable insights, as well as safeguarding systems and information. Eager to contribute to teams that focus on data-driven decision-making and cybersecurity solutions, with a keen interest in addressing real-world challenges and enhancing the security of data infrastructures.
+Passionate about leveraging data to drive actionable insights, as well as safeguarding systems and information. Eager to contribute to teams that focus on data-driven decision-making, with a keen interest in addressing real-world challenges and enhancing the security of data infrastructures.
 
 
 ## Objective
 
-My journey as a meteorologist has sparked a strong interest in data analysis and its potential to uncover valuable insights. I am now eager to transition into a role in Data Science, Data Analytics, or Cybersecurity, where I can leverage my analytical skills to drive impactful, data-driven decisions while also contributing to safeguarding data and systems.
+My journey as a meteorologist has sparked a strong interest in data analysis and its potential to uncover valuable insights. I am now eager to transition into a role in Data Science or Data Analytics, where I can leverage my analytical skills to drive impactful, data-driven decisions while also contributing to safeguarding data and systems.
 
-Adept at interpreting complex datasets, performing statistical analysis, and utilizing advanced tools and technologies to uncover trends and patterns. I am passionate about using data to solve real-world problems, make informed decisions, and contribute to the security of systems and sensitive information. Ready to apply my expertise in data analysis, problem-solving, statistical modeling, and cybersecurity to the dynamic and evolving fields of data science, analytics, and cybersecurity.
+Adept at interpreting complex datasets, performing statistical analysis, and utilizing advanced tools and technologies to uncover trends and patterns. I am passionate about using data to solve real-world problems and make informed decisions. Ready to apply my expertise in data analysis, problem-solving, statistical modeling to the dynamic and evolving fields of data science and analytics.
 
 
 ## Education
