@@ -25,6 +25,7 @@ Adept at interpreting complex datasets, performing statistical analysis, and uti
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| Large Language Model – Build a Semantic Book Recommender          | <a href="https://github.com/asyrafzf95/LargeLanguageModel-LLM--Build-a-Semantic-Book-Recommender">Build a Semantic Book Recommender Using LLM</a>|
 | Credit Card Fraud Detection - Dealing with Imbalanced Datasets in Machine Learning         | <a href="https://github.com/asyrafzf95/Credit-Card-Fraud-Detection">Credit Card Fraud Detection</a>|
 | Predicting California Housing Prices         | <a href="https://github.com/asyrafzf95/Predicting-Housing-Prices">Predicting Housing Prices</a>|
 | Exploratory Data Analysis on Covid-19 in India          | <a href="https://github.com/asyrafzf95/Exploratory-Data-Analysis-on-Covid-19-in-India">Exploratory Data Analysis</a>|
@@ -189,6 +190,7 @@ Model Evaluation
 </div>
 
 ## Projects
+- <a href="https://github.com/asyrafzf95/LargeLanguageModel-LLM--Build-a-Semantic-Book-Recommender">Build a Semantic Book Recommender Using LLM</a>
 - <a href="https://github.com/asyrafzf95/Credit-Card-Fraud-Detection">Credit Card Fraud Detection</a>
 - <a href="https://github.com/asyrafzf95/Predicting-Housing-Prices">Predicting Housing Prices</a>
 - <a href="https://github.com/asyrafzf95/Exploratory-Data-Analysis-on-Covid-19-in-India">Exploratory Data Analysis</a>
