@@ -25,6 +25,7 @@ Adept at interpreting complex datasets, performing statistical analysis, and uti
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| Long Short-Term Memory (LSTM)     | <a href="https://github.com/asyrafzf95/LSTM-Time-Series-Forecasting---Microsoft-Stock">Microsot Stock Time Series Forecasting</a>|
 | Natural Language Processing       | <a href="https://github.com/asyrafzf95/NLP-Twitter-Sentiment-Analysis/tree/main">Twitter Sentiment Analysis  </a>|
 | Large Language Model        | <a href="https://github.com/asyrafzf95/LargeLanguageModel-LLM--Build-a-Semantic-Book-Recommender">Build a Semantic Book Recommender</a>|
 | Dealing with Imbalanced Datasets in Machine Learning         | <a href="https://github.com/asyrafzf95/Credit-Card-Fraud-Detection">Credit Card Fraud Detection</a>|
@@ -191,6 +192,7 @@ Model Evaluation
 </div>
 
 ## Projects
+- <a href="https://github.com/asyrafzf95/LSTM-Time-Series-Forecasting---Microsoft-Stock">LSTM - Time Series Forecasting of Microsoft Stocks</a>
 - <a href="https://github.com/asyrafzf95/NLP-Twitter-Sentiment-Analysis/tree/main">Natural Language Processing - Twitter Sentiment Analysis</a>
 - <a href="https://github.com/asyrafzf95/LargeLanguageModel-LLM--Build-a-Semantic-Book-Recommender">Build a Semantic Book Recommender Using LLM</a>
 - <a href="https://github.com/asyrafzf95/Credit-Card-Fraud-Detection">Credit Card Fraud Detection</a>
