@@ -1,7 +1,7 @@
 # Hello, I'm Mohamad Asyraf Bin Zulkifli
 <a href="https://www.linkedin.com/in/asyrafzf/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Aspiring Data Scientist Enthusiast, currently working as a Meteorologist, actively seeking opportunities in data science. I have completed the IBM Data Science Professional Certificate, which have equipped me with the technical knowledge and practical skills in data analysis, machine learning and best practices. My background in meteorology has provided me with strong analytical skills, which I am now applying and expanding in the fields of data analysis, statistical analysis, machine learning, and data visualization. 
+Aspiring Cybersecurity Professional, currently working as a Meteorologist, actively seeking opportunities in the cybersecurity domain. I have recently earned the Certified Ethical Hacker (CEH) certification, which has equipped me with technical knowledge and practical skills in penetration testing, vulnerability assessment, and security best practices. My background in meteorology has strengthened my analytical and problem-solving skills, which I am now applying and expanding in areas such as network security, threat analysis, incident response, and ethical hacking. 
 
 Passionate about leveraging data to drive actionable insights, as well as safeguarding systems and information. Eager to contribute to teams that focus on data-driven decision-making, with a keen interest in addressing real-world challenges and enhancing the security of data infrastructures.
 
@@ -176,6 +176,10 @@ Model Evaluation
 ## Certifications
 
 <div>
+
+ <a href="https://aspen.eccouncil.org/Certificate/Certificate?a=eof6foV0K5/d/w5hmSyIRQ==">
+<img src="https://img.shields.io/badge/-Certified_Ethical_Hacker_(CEH)-E1261C?&style=for-the-badge&logo=Hackaday&logoColor=white" />
+</a>
     <a href="https://coursera.org/share/5d4d0f77e2402b0758483cd11782c345" target="_blank">
   <img src="https://img.shields.io/badge/-IBM_Data_Science_Certificate-0064A5?&style=for-the-badge&logo=IBM&logoColor=white" />
 </a>
