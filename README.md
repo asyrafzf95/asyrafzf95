@@ -27,7 +27,7 @@ Certified as a CEH (Certified Ethical Hacker) and Google Cybersecurity Professio
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Scanning-Network    | <a href="https://github.com/asyrafzf95/Scanning-Network">Microsot Stock Time Series Forecasting</a>|
+| Scanning-Network   href="https://github.com/asyrafzf95/Scanning-Network" | <a href="https://github.com/asyrafzf95/Scanning-Network">Microsot Stock Time Series Forecasting</a>|
 | Long Short-Term Memory (LSTM)     | <a href="https://github.com/asyrafzf95/LSTM-Time-Series-Forecasting---Microsoft-Stock">Microsot Stock Time Series Forecasting</a>|
 | Long Short-Term Memory (LSTM)     | <a href="https://github.com/asyrafzf95/LSTM-Time-Series-Forecasting---Microsoft-Stock">Microsot Stock Time Series Forecasting</a>|
 | Long Short-Term Memory (LSTM)     | <a href="https://github.com/asyrafzf95/LSTM-Time-Series-Forecasting---Microsoft-Stock">Microsot Stock Time Series Forecasting</a>|
