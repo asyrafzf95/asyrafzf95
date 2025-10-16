@@ -27,6 +27,25 @@ Certified as a CEH (Certified Ethical Hacker) and Google Cybersecurity Professio
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| Scanning-Network    | <a href="https://github.com/asyrafzf95/Scanning-Network">Microsot Stock Time Series Forecasting</a>|
+| Long Short-Term Memory (LSTM)     | <a href="https://github.com/asyrafzf95/LSTM-Time-Series-Forecasting---Microsoft-Stock">Microsot Stock Time Series Forecasting</a>|
+| Long Short-Term Memory (LSTM)     | <a href="https://github.com/asyrafzf95/LSTM-Time-Series-Forecasting---Microsoft-Stock">Microsot Stock Time Series Forecasting</a>|
+| Long Short-Term Memory (LSTM)     | <a href="https://github.com/asyrafzf95/LSTM-Time-Series-Forecasting---Microsoft-Stock">Microsot Stock Time Series Forecasting</a>|
+| Long Short-Term Memory (LSTM)     | <a href="https://github.com/asyrafzf95/LSTM-Time-Series-Forecasting---Microsoft-Stock">Microsot Stock Time Series Forecasting</a>|
+| Long Short-Term Memory (LSTM)     | <a href="https://github.com/asyrafzf95/LSTM-Time-Series-Forecasting---Microsoft-Stock">Microsot Stock Time Series Forecasting</a>|
+| Long Short-Term Memory (LSTM)     | <a href="https://github.com/asyrafzf95/LSTM-Time-Series-Forecasting---Microsoft-Stock">Microsot Stock Time Series Forecasting</a>|
+| Long Short-Term Memory (LSTM)     | <a href="https://github.com/asyrafzf95/LSTM-Time-Series-Forecasting---Microsoft-Stock">Microsot Stock Time Series Forecasting</a>|
+| Long Short-Term Memory (LSTM)     | <a href="https://github.com/asyrafzf95/LSTM-Time-Series-Forecasting---Microsoft-Stock">Microsot Stock Time Series Forecasting</a>|
+| Long Short-Term Memory (LSTM)     | <a href="https://github.com/asyrafzf95/LSTM-Time-Series-Forecasting---Microsoft-Stock">Microsot Stock Time Series Forecasting</a>|
+| Long Short-Term Memory (LSTM)     | <a href="https://github.com/asyrafzf95/LSTM-Time-Series-Forecasting---Microsoft-Stock">Microsot Stock Time Series Forecasting</a>|
+| Long Short-Term Memory (LSTM)     | <a href="https://github.com/asyrafzf95/LSTM-Time-Series-Forecasting---Microsoft-Stock">Microsot Stock Time Series Forecasting</a>|
+| Long Short-Term Memory (LSTM)     | <a href="https://github.com/asyrafzf95/LSTM-Time-Series-Forecasting---Microsoft-Stock">Microsot Stock Time Series Forecasting</a>|
+| Long Short-Term Memory (LSTM)     | <a href="https://github.com/asyrafzf95/LSTM-Time-Series-Forecasting---Microsoft-Stock">Microsot Stock Time Series Forecasting</a>|
+| Long Short-Term Memory (LSTM)     | <a href="https://github.com/asyrafzf95/LSTM-Time-Series-Forecasting---Microsoft-Stock">Microsot Stock Time Series Forecasting</a>|
+| Long Short-Term Memory (LSTM)     | <a href="https://github.com/asyrafzf95/LSTM-Time-Series-Forecasting---Microsoft-Stock">Microsot Stock Time Series Forecasting</a>|
+| Long Short-Term Memory (LSTM)     | <a href="https://github.com/asyrafzf95/LSTM-Time-Series-Forecasting---Microsoft-Stock">Microsot Stock Time Series Forecasting</a>|
+| Long Short-Term Memory (LSTM)     | <a href="https://github.com/asyrafzf95/LSTM-Time-Series-Forecasting---Microsoft-Stock">Microsot Stock Time Series Forecasting</a>|
+| Long Short-Term Memory (LSTM)     | <a href="https://github.com/asyrafzf95/LSTM-Time-Series-Forecasting---Microsoft-Stock">Microsot Stock Time Series Forecasting</a>|
 | Long Short-Term Memory (LSTM)     | <a href="https://github.com/asyrafzf95/LSTM-Time-Series-Forecasting---Microsoft-Stock">Microsot Stock Time Series Forecasting</a>|
 | Classification     | <a href="https://github.com/asyrafzf95/Breast-Cancer-Classification-using-PyCaret">Breast Cancer Classification</a>|
 | Natural Language Processing       | <a href="https://github.com/asyrafzf95/NLP-Twitter-Sentiment-Analysis/tree/main">Twitter Sentiment Analysis  </a>|
