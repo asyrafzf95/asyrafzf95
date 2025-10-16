@@ -27,16 +27,7 @@ Certified as a CEH (Certified Ethical Hacker) and Google Cybersecurity Professio
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Perform host discovery
-Perform host discovery using Nmap
-Perform port and service discovery
-Explore various network scanning techniques using Nmap
-Perform OS discovery
-Perform OS discovery using Nmap Script Engine (NSE)
-Scan beyond IDS and Firewall
-Scan beyond IDS/firewall using various evasion techniques
-Perform network scanning using various scanning tools
-Scan a target network using Metasploit  | <a href="https://github.com/asyrafzf95/Scanning-Network">Microsot Stock Time Series Forecasting</a>|
+| Performed host discovery using Nmap host discovery., Performed port and service discovery using Nmap port scans, Performed OS discovery using Nmap NSE for OS fingerprinting, Performed IDS/firewall-evasion scanning using evasion techniques. | <a href="https://github.com/asyrafzf95/Scanning-Network">Scanning-Network</a>|
 | Long Short-Term Memory (LSTM)     | <a href="https://github.com/asyrafzf95/LSTM-Time-Series-Forecasting---Microsoft-Stock">Microsot Stock Time Series Forecasting</a>|
 | Long Short-Term Memory (LSTM)     | <a href="https://github.com/asyrafzf95/LSTM-Time-Series-Forecasting---Microsoft-Stock">Microsot Stock Time Series Forecasting</a>|
 | Long Short-Term Memory (LSTM)     | <a href="https://github.com/asyrafzf95/LSTM-Time-Series-Forecasting---Microsoft-Stock">Microsot Stock Time Series Forecasting</a>|
