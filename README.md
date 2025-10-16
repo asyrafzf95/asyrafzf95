@@ -218,25 +218,25 @@ Model Evaluation
 </div>
 
 ## Projects
-- <a href="https://github.com/asyrafzf95/Footprinting-and-Reconnaissance">LSTM - Footprinting & Reconnaissance </a>
-- <a href="https://github.com/asyrafzf95/Scanning-Network">LSTM - Scanning Network </a>
-- <a href="https://github.com/asyrafzf95/Enumeration">LSTM - Enumeration </a>
-- <a href="https://github.com/asyrafzf95/Vulnerability-Analysis">LSTM - Vulnerability Analysis </a>
-- <a href="https://github.com/asyrafzf95/System-Hacking">LSTM - System Hacking </a>
-- <a href="https://github.com/asyrafzf95/Malware-Threats">LSTM - Malware & Threats </a>
-- <a href="https://github.com/asyrafzf95/Sniffing">LSTM - Sniffing </a>
-- <a href="https://github.com/asyrafzf95/Social-Engineering">LSTM - Social Engineering </a>
-- <a href="https://github.com/asyrafzf95/Denial-of-Service-DoS-and-Distributed-Denial-of-Service-DDoS-">LSTM - Denial-of-Service (DoS / DDoS) </a>
-- <a href="https://github.com/asyrafzf95/Session-Hijacking">LSTM - Session Hijacking </a>
-- <a href="https://github.com/asyrafzf95/Evading-IDS-Firewalls-and-Honeypots">LSTM - Evading IDS, Firewalls & Honeypots </a>
-- <a href="https://github.com/asyrafzf95/Hacking-Web-Servers">LSTM - Hacking Web Servers </a>
-- <a href="https://github.com/asyrafzf95/Hacking-Web-Applications">LSTM - Hacking Web Applications </a>
-- <a href="https://github.com/asyrafzf95/SQL-Injection">LSTM - SQL-Injection </a>
-- <a href="https://github.com/asyrafzf95/Hacking-Wireless-Networks">LSTM - Hacking Wireless Networks </a>
-- <a href="https://github.com/asyrafzf95/Hacking-Mobile-Platforms">LSTM - Hacking Mobile Platforms </a>
-- <a href="https://github.com/asyrafzf95/IoT-and-OT-Hacking">LSTM - IoT & OT Hacking </a>
-- <a href="https://github.com/asyrafzf95/Cloud-Computing">LSTM - Cloud-Computing </a>
-- <a href="https://github.com/asyrafzf95/Cryptography">LSTM - Cryptography </a>
+- <a href="https://github.com/asyrafzf95/Footprinting-and-Reconnaissance">Footprinting & Reconnaissance </a>
+- <a href="https://github.com/asyrafzf95/Scanning-Network">Scanning Network </a>
+- <a href="https://github.com/asyrafzf95/Enumeration">Enumeration </a>
+- <a href="https://github.com/asyrafzf95/Vulnerability-Analysis">Vulnerability Analysis </a>
+- <a href="https://github.com/asyrafzf95/System-Hacking">System Hacking </a>
+- <a href="https://github.com/asyrafzf95/Malware-Threats">Malware & Threats </a>
+- <a href="https://github.com/asyrafzf95/Sniffing">Sniffing </a>
+- <a href="https://github.com/asyrafzf95/Social-Engineering">Social Engineering </a>
+- <a href="https://github.com/asyrafzf95/Denial-of-Service-DoS-and-Distributed-Denial-of-Service-DDoS-">Denial-of-Service (DoS / DDoS) </a>
+- <a href="https://github.com/asyrafzf95/Session-Hijacking">Session Hijacking </a>
+- <a href="https://github.com/asyrafzf95/Evading-IDS-Firewalls-and-Honeypots">Evading IDS, Firewalls & Honeypots </a>
+- <a href="https://github.com/asyrafzf95/Hacking-Web-Servers">Hacking Web Servers </a>
+- <a href="https://github.com/asyrafzf95/Hacking-Web-Applications">Hacking Web Applications </a>
+- <a href="https://github.com/asyrafzf95/SQL-Injection">SQL-Injection </a>
+- <a href="https://github.com/asyrafzf95/Hacking-Wireless-Networks">Hacking Wireless Networks </a>
+- <a href="https://github.com/asyrafzf95/Hacking-Mobile-Platforms">Hacking Mobile Platforms </a>
+- <a href="https://github.com/asyrafzf95/IoT-and-OT-Hacking">IoT & OT Hacking </a>
+- <a href="https://github.com/asyrafzf95/Cloud-Computing">Cloud-Computing </a>
+- <a href="https://github.com/asyrafzf95/Cryptography">Cryptography </a>
 - <a href="https://github.com/asyrafzf95/LSTM-Time-Series-Forecasting---Microsoft-Stock">LSTM - Time Series Forecasting of Microsoft Stocks</a>
 - <a href="https://github.com/asyrafzf95/Breast-Cancer-Classification-using-PyCaret">Breast Cancer Classification</a>
 - <a href="https://github.com/asyrafzf95/NLP-Twitter-Sentiment-Analysis/tree/main">Natural Language Processing - Twitter Sentiment Analysis</a>
