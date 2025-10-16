@@ -27,7 +27,7 @@ Certified as a CEH (Certified Ethical Hacker) and Google Cybersecurity Professio
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Performed host discovery using Nmap host discovery., Performed port and service discovery using Nmap port scans, Performed OS discovery using Nmap NSE for OS fingerprinting, Performed IDS/firewall-evasion scanning using evasion techniques, Performed comprehensive network scans using Metasploit auxiliary modules. | <a href="https://github.com/asyrafzf95/Scanning-Network">Scanning-Network</a>|
+| Performed host discovery using Nmap host discovery., Performed port and service discovery using Nmap port scans, Performed OS discovery using Nmap NSE for OS fingerprinting, Performed IDS/firewall-evasion scanning using evasion techniques, Performed comprehensive network scans using Metasploit auxiliary modules. | <a href="https://github.com/asyrafzf95/Scanning-Network">Scanning Network</a>|
 | Performed search-engine footprinting using Google Dorking, Performed internet research footprinting using DNSdumpster and Netcraft, Performed social-network footprinting using Sherlock, Performed Whois footprinting using Whois lookup (DomainTools), Performed DNS footprinting using nslookup, Performed network footprinting using traceroute on Windows and Linux, Performed automated footprinting using Recon-ng.     | <a href="https://github.com/asyrafzf95/Footprinting-and-Reconnaissance">Footprinting and Reconnaissance</a>|
 | Performed NetBIOS enumeration using Windows NetBIOS utilities, Performed SNMP enumeration using snmpwalk, Performed LDAP/AD enumeration using AD Explorer, Performed NFS enumeration using RPCScan / SuperEnum, Performed DNS enumeration using zone transfer techniques, Performed SMTP enumeration using Nmap SMTP scripts, Performed general enumeration using network inventory tools.    | <a href="https://github.com/asyrafzf95/Enumeration">Enumeration</a>|
 | Performed vulnerability research using CWE and vulnerability databases, Performed vulnerability scanning and assessment using OpenVAS, Performed AI-assisted vulnerability analysis using ShellGPT.     | <a href="https://github.com/asyrafzf95/Vulnerability-Analysis">Vulnerability Analysis</a>|
@@ -218,6 +218,25 @@ Model Evaluation
 </div>
 
 ## Projects
+- <a href="https://github.com/asyrafzf95/Footprinting-and-Reconnaissance">LSTM - Footprinting & Reconnaissance </a>
+- <a href="https://github.com/asyrafzf95/Scanning-Network">LSTM - Scanning Network </a>
+- <a href="https://github.com/asyrafzf95/Enumeration">LSTM - Enumeration </a>
+- <a href="https://github.com/asyrafzf95/Vulnerability-Analysis">LSTM - Vulnerability Analysis </a>
+- <a href="https://github.com/asyrafzf95/System-Hacking">LSTM - System Hacking </a>
+- <a href="https://github.com/asyrafzf95/Malware-Threats">LSTM - Malware & Threats </a>
+- <a href="https://github.com/asyrafzf95/Sniffing">LSTM - Sniffing </a>
+- <a href="https://github.com/asyrafzf95/Social-Engineering">LSTM - Social Engineering </a>
+- <a href="https://github.com/asyrafzf95/Denial-of-Service-DoS-and-Distributed-Denial-of-Service-DDoS-">LSTM - Denial-of-Service (DoS / DDoS) </a>
+- <a href="https://github.com/asyrafzf95/Session-Hijacking">LSTM - Session Hijacking </a>
+- <a href="https://github.com/asyrafzf95/Evading-IDS-Firewalls-and-Honeypots">LSTM - Evading IDS, Firewalls & Honeypots </a>
+- <a href="https://github.com/asyrafzf95/Hacking-Web-Servers">LSTM - Hacking Web Servers </a>
+- <a href="https://github.com/asyrafzf95/Hacking-Web-Applications">LSTM - Hacking Web Applications </a>
+- <a href="https://github.com/asyrafzf95/SQL-Injection">LSTM - SQL-Injection </a>
+- <a href="https://github.com/asyrafzf95/Hacking-Wireless-Networks">LSTM - Hacking Wireless Networks </a>
+- <a href="https://github.com/asyrafzf95/Hacking-Mobile-Platforms">LSTM - Hacking Mobile Platforms </a>
+- <a href="https://github.com/asyrafzf95/IoT-and-OT-Hacking">LSTM - IoT & OT Hacking </a>
+- <a href="https://github.com/asyrafzf95/Cloud-Computing">LSTM - Cloud-Computing </a>
+- <a href="https://github.com/asyrafzf95/Cryptography">LSTM - Cryptography </a>
 - <a href="https://github.com/asyrafzf95/LSTM-Time-Series-Forecasting---Microsoft-Stock">LSTM - Time Series Forecasting of Microsoft Stocks</a>
 - <a href="https://github.com/asyrafzf95/Breast-Cancer-Classification-using-PyCaret">Breast Cancer Classification</a>
 - <a href="https://github.com/asyrafzf95/NLP-Twitter-Sentiment-Analysis/tree/main">Natural Language Processing - Twitter Sentiment Analysis</a>
