@@ -1,16 +1,18 @@
 # Hello, I'm Mohamad Asyraf Bin Zulkifli
 <a href="https://www.linkedin.com/in/asyrafzf/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Aspiring Cybersecurity Professional, currently working as a Meteorologist, actively seeking opportunities in the cybersecurity domain. I have recently earned the Certified Ethical Hacker (CEH) certification, which has equipped me with technical knowledge and practical skills in penetration testing, vulnerability assessment, and security best practices. My background in meteorology has strengthened my analytical and problem-solving skills, which I am now applying and expanding in areas such as network security, threat analysis, incident response, and ethical hacking. 
+Cybersecurity professional with over five years of experience working in an IT-driven environment as a Meteorologist. Certified Ethical Hacker (CEH) and Google Cybersecurity Professional with hands-on experience in penetration testing, vulnerability assessment, threat analysis, and incident response.
 
-Passionate about leveraging data to drive actionable insights, as well as safeguarding systems and information. Eager to contribute to teams that focus on data-driven decision-making, with a keen interest in addressing real-world challenges and enhancing the security of data infrastructures.
+Passionate about ethical hacking, SOC operations, and network defense, with practical knowledge of tools such as Nmap, Burp Suite, Wireshark, Metasploit, and OpenVAS. My background in meteorology has strengthened my analytical, problem-solving, and data-driven decision-making skills, which I now apply to cybersecurity and digital risk management.
+
+I’m dedicated to continuous learning and contributing to projects that enhance system resilience, data protection, and overall security posture.
 
 
 ## Objective
 
-My journey as a meteorologist has sparked a strong interest in data analysis and its potential to uncover valuable insights. I am now eager to transition into a role in Data Science or Data Analytics, where I can leverage my analytical skills to drive impactful, data-driven decisions while also contributing to safeguarding data and systems.
+My experience as a Meteorologist in an IT department has sparked a deep passion for cybersecurity and system protection. Over the past five years, I have developed strong analytical and technical skills that I now apply to areas such as penetration testing, vulnerability assessment, and threat monitoring.
 
-Adept at interpreting complex datasets, performing statistical analysis, and utilizing advanced tools and technologies to uncover trends and patterns. I am passionate about using data to solve real-world problems and make informed decisions. Ready to apply my expertise in data analysis, problem-solving, statistical modeling to the dynamic and evolving fields of data science and analytics.
+Certified as a CEH (Certified Ethical Hacker) and Google Cybersecurity Professional, I am committed to continuous learning and the practical application of ethical hacking, risk management, and defensive security techniques. I aim to contribute to projects that enhance system resilience, data protection, and operational security, while leveraging my background in data analysis and problem-solving to identify threats and improve defenses.
 
 
 ## Education
